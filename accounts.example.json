@@ -1,18 +1,23 @@
+
 [
-  {
-    "username": "your_microsoft_email@example.com",
-    "auth": "microsoft",
-    "proxy": "socks5://user:pass@1.2.3.4:1080"
-  },
-  {
-    "username": "another_account@example.com",
-    "auth": "microsoft",
-    "proxy": "socks5://5.6.7.8:1080"
-  },
-  {
-    "username": "OfflineName",
-    "auth": "offline",
-    "password": "optional_authme_password",
-    "proxy": null
-  }
+  {"username":"ShadowRider27","auth":"offline","password":null,"proxy":"socks5://PROXY_01:PORT"},
+  {"username":"ItsAlex09","auth":"offline","password":null,"proxy":"socks5://PROXY_02:PORT"},
+  {"username":"DarkVortex21","auth":"offline","password":null,"proxy":"socks5://PROXY_03:PORT"},
+  {"username":"NotYourSteve","auth":"offline","password":null,"proxy":"socks5://PROXY_04:PORT"},
+  {"username":"LunarWolf88","auth":"offline","password":null,"proxy":"socks5://PROXY_05:PORT"},
+  {"username":"FrostByte12","auth":"offline","password":null,"proxy":"socks5://PROXY_06:PORT"},
+  {"username":"PixelHunter7","auth":"offline","password":null,"proxy":"socks5://PROXY_07:PORT"},
+  {"username":"CrazyMiner45","auth":"offline","password":null,"proxy":"socks5://PROXY_08:PORT"},
+  {"username":"EnderKnight9","auth":"offline","password":null,"proxy":"socks5://PROXY_09:PORT"},
+  {"username":"JustOliver23","auth":"offline","password":null,"proxy":"socks5://PROXY_10:PORT"},
+  {"username":"RedstonePro","auth":"offline","password":null,"proxy":"socks5://PROXY_11:PORT"},
+  {"username":"GhostPlayer18","auth":"offline","password":null,"proxy":"socks5://PROXY_12:PORT"},
+  {"username":"BluePhoenix5","auth":"offline","password":null,"proxy":"socks5://PROXY_13:PORT"},
+  {"username":"CraftyNoob77","auth":"offline","password":null,"proxy":"socks5://PROXY_14:PORT"},
+  {"username":"ThunderZack","auth":"offline","password":null,"proxy":"socks5://PROXY_15:PORT"},
+  {"username":"NightWalker6","auth":"offline","password":null,"proxy":"socks5://PROXY_16:PORT"},
+  {"username":"EpicBuilder32","auth":"offline","password":null,"proxy":"socks5://PROXY_17:PORT"},
+  {"username":"SkyBlockFan","auth":"offline","password":null,"proxy":"socks5://PROXY_18:PORT"},
+  {"username":"MightyDragon8","auth":"offline","password":null,"proxy":"socks5://PROXY_19:PORT"},
+  {"username":"ItsDaniel04","auth":"offline","password":null,"proxy":"socks5://PROXY_20:PORT"}
 ]
