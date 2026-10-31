@@ -1,0 +1,6 @@
+node_modules/
+accounts.json
+profiles/
+*.log
+proxies.txt
+names.txt

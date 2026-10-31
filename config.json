@@ -1,0 +1,9 @@
+{
+  "host": "minechat.levyathan.ch",
+  "port": 25565,
+  "version": false,
+  "loginDelaySeconds": 20,
+  "reconnectBaseSeconds": 30,
+  "reconnectMaxSeconds": 600,
+  "antiAfkIntervalSeconds": 25
+}

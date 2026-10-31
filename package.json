@@ -1,0 +1,11 @@
+{
+  "name": "afk-bots",
+  "version": "1.0.0",
+  "description": "Multi-account AFK bots for a Minecraft server",
+  "main": "index.js",
+  "scripts": { "start": "node index.js" },
+  "dependencies": {
+    "mineflayer": "^4.23.0",
+    "socks": "^2.8.3"
+  }
+}
